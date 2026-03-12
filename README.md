@@ -8,7 +8,6 @@ A simple weather application built using **HTML, CSS, and JavaScript** that fetc
 * Displays temperature in Celsius
 * Shows weather description
 * Displays humidity and wind speed
-* Weather icon based on current conditions
 
 ## 🛠 Technologies Used
 
